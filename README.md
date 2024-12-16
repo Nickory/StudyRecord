@@ -20,34 +20,6 @@ StudyRecord uses a combination of **time tracking** and **study status recording
 
 ## 如何使用 📥
 
-### 1. 安装要求
-- Python 3.x or higher
-- Make sure you have **Pandas** and **Matplotlib** libraries installed.
-  You can install them via pip:
-  
-  ```bash
-  pip install pandas matplotlib
-
-Getting Started 🚀
-To get started, follow these simple steps:
-
-1. Install the Required Dependencies
-Make sure you have Python installed on your system. You will also need some dependencies. Install them using pip:
-
-pip install -r requirements.txt
-
-2. Clone the Repository
-Start by cloning the repository to your local machine:
-
-git clone https://github.com/YOUR_USERNAME/StudyRecord.git cd StudyRecord
-
-3. Running the Program
-Simply run the script to start tracking your study time:
-
-python study_record.py
-
-It will begin tracking your study sessions automatically. You can stop and start the tracking process whenever you want.
-
 4. 查看学习报告 📊
 At the end of the day, StudyRecord will generate a learning report. You can view this report in your terminal or as a file (depending on the setup you choose).
 
