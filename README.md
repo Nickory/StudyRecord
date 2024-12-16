@@ -29,12 +29,6 @@ You can personalize the study sessions by:
 - Adding tasks for each study period.
 - Adjusting the frequency of daily reminders.
 
-Example Usage 📋
-Run the following command to start the tracker and set a study session:
-
-python study_record.py --start "Mathematics" --task "Homework" --time 2h
-
-This will log 2 hours of study time for Mathematics Homework. StudyRecord will track your progress and send you reminders accordingly.
 
 Future Enhancements 🚀
 - **Integrated with Google Calendar**: Sync your study sessions with your calendar to never miss a study block.
